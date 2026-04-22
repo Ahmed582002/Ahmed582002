@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Flutter projects
 - 🌱 Learning advanced Flutter & Backend Integration
 - 💬 Ask me about **Flutter, Dart, Firebase, GetX**
-- 📫 How to reach me: ahmed@email.com
+- 📫 How to reach me: ahmedragab0680@gmail.com
 
 ---
 
