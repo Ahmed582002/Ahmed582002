@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Ahmed Ragab
 
-<!--
-**Ahmed582002/Ahmed582002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Flutter Developer  
+🚀 Passionate about building mobile apps and scalable systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+- 🔭 I’m currently working on Flutter projects
+- 🌱 Learning advanced Flutter & Backend Integration
+- 💬 Ask me about **Flutter, Dart, Firebase, GetX**
+- 📫 How to reach me: ahmed@email.com
+
+---
+
+### 🛠 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+### 📊 GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed582002&show_icons=true&theme=dark)
+
+---
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmed582002&theme=dark)
